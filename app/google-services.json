@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1035525148544",
+    "firebase_url": "https://news-everyday.firebaseio.com",
+    "project_id": "news-everyday",
+    "storage_bucket": "news-everyday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035525148544:android:6b7aaf7768572f91",
+        "android_client_info": {
+          "package_name": "com.example.sony.newseveryday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035525148544-sjh1ju388kh6o6ur8dkrmp83mdobobfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJP8AR8mrfEz53PBZhkw9tEDpuGkqJJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
