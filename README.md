@@ -6,6 +6,7 @@ It provides top news based on World ,Technology,Sports,Business,Entertainment.th
 This application has attractive user interface , easy to read news and user can store the news offline to read it later without internet connectivity 
 
 **Features**
+
 Application main features :
 
 Saves News for  offline reading 
