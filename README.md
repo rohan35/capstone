@@ -15,14 +15,14 @@ Read the news within the application with same format as on intended website
 
 
 Screenshots
-![Alt text](/relative/path/to/screenshot_1.png?raw=true )
-![Alt text](/relative/path/to/screenshot_2.png?raw=true )
+![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_1.png)
+![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_2.png )
 
-![Alt text](/relative/path/to/screenshot_3.png?raw=true )
+![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_3.png)
 
-![Alt text](/relative/path/to/screenshot_4.png?raw=true )
+![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_4.png )
 
-![Alt text](/relative/path/to/screenshot_5.png?raw=true )
+![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_5.png )
 
 
 
