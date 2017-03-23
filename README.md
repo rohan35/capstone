@@ -26,5 +26,3 @@ Read the news within the application with same format as on intended website
 
 
 
-
-
