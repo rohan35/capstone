@@ -15,7 +15,7 @@ Read the news within the application with same format as on intended website
 
 
 Screenshots
-![Alt ](https://github.com/rohan35/capstone/blob/master/screenshot_1.png )
+![Alt ](https://github.com/rohan35/capstone/blob/master/screenshot_1.jpg )
 ![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_2.png )
 
 ![Alt text](https://github.com/rohan35/capstone/blob/master/screenshot_3.png )
